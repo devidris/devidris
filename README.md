@@ -1,6 +1,6 @@
 - 👋 Hi, I’m idris
 - 👀 I’m interested in any web development project
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on frontend and backend projects
 - 📫 info@dev-idris.com
 
